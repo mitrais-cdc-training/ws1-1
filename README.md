@@ -11,5 +11,5 @@
 - [ ] [Akhmad Fathoni](7.md)
 - [ ] [Albertus Adityo Wahono](8.md)
 - [ ] [Alfredo Edo Hasudungan Manik](9.md)
-- [ ] [Amelia Rahman](10.md)
+- [x] [Amelia Rahman](10.md)
 - [ ] [Anak Agung Gede Indra Kusuma](11.md)

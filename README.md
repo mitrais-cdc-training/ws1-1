@@ -3,7 +3,7 @@
 ## Attendees
 
 - [x] [Kustian](1.md)
-- [ ] [Affan Dafananto](2.md)
+- [x] [Affan Dafananto](2.md)
 - [x] [Agung Aditya Kristiawan](3.md)
 - [x] [Agung Budi Darmawan](4.md)
 - [x] [Agus Adipartha Wibawa](5.md)
